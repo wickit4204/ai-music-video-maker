@@ -1,0 +1,10 @@
+{
+  "frontend/src/App.tsx": "Main application component with theme provider, tab navigation between upload and gallery views, and toast notifications.",
+  "frontend/src/hooks/useQueries.ts": "React Query hooks for backend operations including audio upload with progress tracking and video retrieval.",
+  "frontend/src/components/Header.tsx": "Application header with branding, navigation tabs for upload and gallery sections.",
+  "frontend/src/components/Footer.tsx": "Footer component with copyright and caffeine.ai attribution.",
+  "frontend/src/components/UploadSection.tsx": "Audio file upload interface with drag-and-drop, file validation, progress tracking, and backend integration.",
+  "frontend/src/components/VideoGallery.tsx": "Gallery view displaying all uploaded videos with music analysis metadata and download options.",
+  "frontend/src/index.css": "Global styles with OKLCH color system featuring purple/violet theme for both light and dark modes.",
+  "frontend/tailwind.config.js": "Tailwind configuration with extended color palette and design tokens."
+}
